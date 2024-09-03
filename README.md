@@ -19,4 +19,4 @@ _les outils utilisés pour les différentes installations (Flask utilisé pour d
 Postman utilisé pour les tests, Mysql, Wampserver64 utilisés pour la base de données)
 _Les procédures d’installation et d’utilisation des outils (technologies utilisées)
 _Les procédures et les résultats des différents tests effectués
-_La présentation pptx de notre projet
+*La présentation pptx de notre projet
